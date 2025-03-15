@@ -10,6 +10,7 @@ A simple front-end Amazon Clone build using HTML & CSS to replicate the design a
 -Fully styled using CSS
 
 
-##Technologies used
+## Technologies Used
+ 
  -HTML5
  -CSS3
